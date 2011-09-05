@@ -1,0 +1,10 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    jslint_on_rails (1.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jslint_on_rails
